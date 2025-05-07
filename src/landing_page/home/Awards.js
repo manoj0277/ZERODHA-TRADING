@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 function Awards() {
     return ( 
         <h1>Awards</h1>

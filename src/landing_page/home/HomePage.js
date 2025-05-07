@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import Awards from './Awards';
 import Hero from './Hero';
 import Stats from './Stats';

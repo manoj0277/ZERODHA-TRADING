@@ -1,8 +1,8 @@
-import React from 'react'
+import React from 'react';
 function Stats() {
-    refirst(
+   return (
         <h1>Stats</h1>
       );
 }
 
-export default Stats;first
+export default Stats;
