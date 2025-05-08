@@ -1,7 +1,6 @@
 import React from 'react';
 function Navbar() {
     return ( 
-    
         <nav className="navbar navbar-expand-lg border-bottom">
             <div className="container p-2">
             <a className="navbar-brand" href="#"> <img src="images/logo.svg" alt="logo" style={{width:"25%"}} /></a>
