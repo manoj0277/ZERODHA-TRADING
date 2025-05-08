@@ -1,8 +1,8 @@
 import React from 'react';
-function RightSection() {
+function SignUp() {
     return ( 
-        <h1>RightSection</h1>
+        <h1>SignUp</h1>
      );
 }
 
-export default RightSection;
+export default SignUp;
