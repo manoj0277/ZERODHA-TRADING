@@ -10,9 +10,7 @@ root.render(
     {/* <App /> */}
     
     <HomePage/>
-
-  
-    <h1>hello manoj</h1>
+    
   </React.StrictMode>
 );
 
